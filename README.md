@@ -5,7 +5,7 @@ My EFI and build process for mini ITX Hackintosh &amp; VR PC
 
 Type|Item
 :----|:----
-**CPU** | [Intel - Core i9-9900k]https://www.newegg.com/core-i9-9th-gen-intel-core-i9-9900k/p/N82E16819117957?Description=i9%209900k&cm_re=i9_9900k-_-19-117-957-_-Product&quicklink=true)
+**CPU** | [Intel - Core i9-9900k](https://www.newegg.com/core-i9-9th-gen-intel-core-i9-9900k/p/N82E16819117957?Description=i9%209900k&cm_re=i9_9900k-_-19-117-957-_-Product&quicklink=true)
 **CPU Cooler** | [Corsair Hydro Series H60](https://www.amazon.com/gp/product/B079NXZQBC/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
 **CPU Cooler Fan** | [Noctua NF-A12x25](https://www.amazon.com/gp/product/B07C5VG64V/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) 
 **Motherboard** | [Gigabyte - Z390 AORUS PRO WiFi mini-ITX](https://www.newegg.com/p/N82E16813145097?Description=gigabyte%20mitx%20aorus&cm_re=gigabyte_mitx_aorus-_-13-145-097-_-Product&quicklink=true)
