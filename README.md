@@ -20,11 +20,16 @@ Type|Item
 
 ##### Helpful Software:
  - [MountEFI](https://github.com/corpnewt/MountEFI)
- - [HackinTool](https://github.com/headkaze/Hackintool)
  - [openCore Configurator](https://formulae.brew.sh/cask/opencore-configurator)
 
 ### Status
+Highly recommend following the steps outlined in [OpenCore Documentation](https://dortania.github.io/OpenCore-Desktop-Guide/). I utilized DSDT dump tools on PC side to create the USB installer as outlined in that documentation. Then just simply mounted EFI of `Macintosh HD` drive and copied over the contents of that EFI to be able to boot without USB.
 
 ##### Working
+ - iMessages
+ - Audio
+ - Netflix
+ - iCloud Services
 
 ##### Not Working
+ - Have not found anything yet
